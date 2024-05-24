@@ -1,0 +1,46 @@
+[
+    {
+        "term": "2021–2026",
+        "members": [
+            {
+                "title": "",
+                "person": [
+                    {
+                        "id": "phamminhchinh",
+                        "fullName": "Phạm Minh Chính",
+                        "prefix": "",
+                        "primary": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "term": "2016–2021",
+        "members": [
+            {
+                "title": 1,
+                "person": [
+                    {
+                        "id": "nguyenxuanphuc",
+                        "fullName": "Nguyễn Xuân Phúc",
+                        "prefix": "",
+                        "primary": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "term": "2011–2016",
+        "members": []
+    },
+    {
+        "term": "2016–2021",
+        "members": []
+    },
+    {
+        "term": "2016–2021",
+        "members": []
+    }
+]
