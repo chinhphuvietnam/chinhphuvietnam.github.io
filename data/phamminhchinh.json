@@ -1,10 +1,18 @@
 {
-  "id": "phamminhchinh",
   "fullName": "Phạm Minh Chính",
   "yearOfBirth": 1958,
   "placeOfBirth": "Thanh Hoá",
-  "biography": "",
-  "education": "",
+  "biography": [
+    {
+      "date": "09/1977 - 09/1984",
+      "detail": "Học Đại học Ngoại ngữ Hà Nội; Đại học Xây dựng Bucarest, Rumani"
+    },
+    {
+      "date": "09/1984 - 01/1985",
+      "detail": "Tốt nghiệp Đại học, chờ tiếp nhận công tác"
+    }
+  ],
+  "education": "Phó Giáo sư Ngành Khoa học An ninh; Tiến sĩ Luật học Kỹ sư xây dựng dân dụng và công nghiệp, chuyên ngành kết cấu thép",
   "wikipedia": "Phạm_Minh_Chính",
   "facebook": "",
   "x": ""
