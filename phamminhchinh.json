@@ -4,8 +4,7 @@
         "person": [
             {
                 "id": "phamminhchinh",
-                "fullName": "Phạm Minh Chính",
-                "additional": ""
+                "fullName": "Phạm Minh Chính"
             }
         ]
     },
@@ -14,8 +13,7 @@
         "person": [
             {
                 "id": "leminhkhai",
-                "fullName": "Lê Minh Khái",
-                "additional": ""
+                "fullName": "Lê Minh Khái"
             }
         ]
     },
@@ -24,8 +22,7 @@
         "person": [
             {
                 "id": "tranhongha",
-                "fullName": "Trần Hồng Hà",
-                "additional": ""
+                "fullName": "Trần Hồng Hà"
             }
         ]
     },
@@ -34,9 +31,28 @@
         "person": [
             {
                 "id": "leminhkhai",
-                "fullName": "Trần Lưu Quang",
-                "additional": ""
+                "fullName": "Trần Lưu Quang"
             }
         ]
-    }
+    },
+    {
+        "title": "Phó Thủ tướng",
+        "person": [
+            {
+                "id": "vuducdam",
+                "fullName": "Vũ Đức Đam",
+                "additional": "đến 5-1-2023"
+            }
+        ]
+    },
+    {
+        "title": "Phó Thủ tướng",
+        "person": [
+            {
+                "id": "phambinhminh",
+                "fullName": "Phạm Bình Minh",
+                "additional": "đến 5-1-2023"
+            }
+        ]
+    },
 ]
