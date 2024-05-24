@@ -1,6 +1,11 @@
 {
-  "hovaten": "Phạm Minh Chính",
-  "namsinh": 1958,
-  "quequan": "Thanh Hoá",
-  "hocvan": "Phó Giáo sư Ngành Khoa học An ninh; Tiến sĩ Luật học Kỹ sư xây dựng dân dụng và công nghiệp, chuyên ngành kết cấu thép"
+  "id": "phamminhchinh",
+  "fullName": "Phạm Minh Chính",
+  "yearOfBirth": 1958,
+  "placeOfBirth": "Thanh Hoá",
+  "biography": "",
+  "education": "",
+  "wikipedia": "Phạm_Minh_Chính",
+  "facebook": "",
+  "x": ""
 }
