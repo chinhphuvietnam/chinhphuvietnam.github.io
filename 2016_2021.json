@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Thủ tướng",
+        "person": [
+            {
+                "id": "nguyenxuanphuc",
+                "fullName": "Nguyễn Xuân Phúc",
+                "additional": "đến 05/04/2021"
+            },
+            {
+                "id": "phamminhchinh",
+                "fullName": "Phạm Minh Chính",
+                "additional": "từ 05/04/2021"
+            }
+        ]
+    }
+]

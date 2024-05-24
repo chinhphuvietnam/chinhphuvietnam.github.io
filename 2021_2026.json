@@ -5,7 +5,7 @@
             {
                 "id": "phamminhchinh",
                 "fullName": "Phạm Minh Chính",
-                "primary": 1
+                "additional": ""
             }
         ]
     },
@@ -15,7 +15,7 @@
             {
                 "id": "leminhkhai",
                 "fullName": "Lê Minh Khái",
-                "primary": 1
+                "additional": ""
             }
         ]
     },
@@ -25,7 +25,7 @@
             {
                 "id": "tranhongha",
                 "fullName": "Trần Hồng Hà",
-                "primary": 1
+                "additional": ""
             }
         ]
     },
@@ -35,7 +35,7 @@
             {
                 "id": "leminhkhai",
                 "fullName": "Trần Lưu Quang",
-                "primary": 1
+                "additional": ""
             }
         ]
     }
