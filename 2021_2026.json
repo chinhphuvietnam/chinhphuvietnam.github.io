@@ -1,6 +1,6 @@
 [
     {
-        "title": "Thủ tướng Chính phủ",
+        "title": "Thủ tướng",
         "person": [
             {
                 "id": "phamminhchinh",
@@ -10,7 +10,7 @@
         ]
     },
     {
-        "title": "Phó Thủ tướng Chính phủ",
+        "title": "Phó Thủ tướng",
         "person": [
             {
                 "id": "leminhkhai",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "title": "Phó Thủ tướng Chính phủ",
+        "title": "Phó Thủ tướng",
         "person": [
             {
                 "id": "tranhongha",
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "title": "Phó Thủ tướng Chính phủ",
+        "title": "Phó Thủ tướng",
         "person": [
             {
                 "id": "leminhkhai",
