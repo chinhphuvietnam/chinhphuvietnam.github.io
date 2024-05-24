@@ -1,32 +1,24 @@
 {
     "term": [
         {
-            "id": "2021_2026",
-            "name": "Chính phủ Việt Nam 2021–2026"
+            "id": "phamminhchinh",
+            "name": "Nhiệm kỳ Phạm Minh Chính"
         },
         {
-            "id": "2016_2021",
-            "name": "Chính phủ Việt Nam 2016 – 2021"
+            "id": "nguyenxuanphuc",
+            "name": "Nhiệm kỳ Nguyễn Xuân Phúc"
         },
         {
-            "id": "2011_2016",
-            "name": "Chính phủ Việt Nam 2011 - 2016"
+            "id": "nguyentandung",
+            "name": "Nhiệm kỳ Nguyễn Tấn Dũng"
         },
         {
-            "id": "2007_2011",
-            "name": "Chính phủ Việt Nam 2007 – 2011"
+            "id": "phanvankhai",
+            "name": "Nhiệm kỳ Phan Văn Khải"
         },
         {
-            "id": "2002_2007",
-            "name": "Chính phủ Việt Nam 2002 – 2007"
-        },
-        {
-            "id": "1997_2002",
-            "name": "Chính phủ Việt Nam 1997 – 2002"
-        },
-        {
-            "id": "1992_1997",
-            "name": "Chính phủ Việt Nam 1992 – 1997"
+            "id": "vovankiet",
+            "name": "Nhiệm kỳ Võ Văn Kiệt"
         }
     ]
 }
