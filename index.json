@@ -2,23 +2,23 @@
     "term": [
         {
             "id": "phamminhchinh",
-            "name": "Nhiệm kỳ Thủ tướng Phạm Minh Chính"
+            "name": "Phạm Minh Chính"
         },
         {
             "id": "nguyenxuanphuc",
-            "name": "Nhiệm kỳ Thủ tướng Nguyễn Xuân Phúc"
+            "name": "Nguyễn Xuân Phúc"
         },
         {
             "id": "nguyentandung",
-            "name": "Nhiệm kỳ Thủ tướng Nguyễn Tấn Dũng"
+            "name": "Nguyễn Tấn Dũng"
         },
         {
             "id": "phanvankhai",
-            "name": "Nhiệm kỳ Thủ tướng Phan Văn Khải"
+            "name": "Phan Văn Khải"
         },
         {
             "id": "vovankiet",
-            "name": "Nhiệm kỳ Thủ tướng Võ Văn Kiệt"
+            "name": "Võ Văn Kiệt"
         }
     ]
 }
