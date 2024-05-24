@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Thủ tướng Chính phủ",
+        "person": [
+            {
+                "id": "phamminhchinh",
+                "fullName": "Phạm Minh Chính",
+                "primary": 1
+            }
+        ]
+    },
+    {
+        "title": "Phó Thủ tướng Chính phủ",
+        "person": [
+            {
+                "id": "leminhkhai",
+                "fullName": "Lê Minh Khái",
+                "primary": 1
+            }
+        ]
+    },
+    {
+        "title": "Phó Thủ tướng Chính phủ",
+        "person": [
+            {
+                "id": "tranhongha",
+                "fullName": "Trần Hồng Hà",
+                "primary": 1
+            }
+        ]
+    },
+    {
+        "title": "Phó Thủ tướng Chính phủ",
+        "person": [
+            {
+                "id": "leminhkhai",
+                "fullName": "Trần Lưu Quang",
+                "primary": 1
+            }
+        ]
+    }
+]

@@ -1,46 +1,32 @@
-[
-    {
-        "term": "2021–2026",
-        "members": [
-            {
-                "title": "",
-                "person": [
-                    {
-                        "id": "phamminhchinh",
-                        "fullName": "Phạm Minh Chính",
-                        "prefix": "",
-                        "primary": 1
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "term": "2016–2021",
-        "members": [
-            {
-                "title": 1,
-                "person": [
-                    {
-                        "id": "nguyenxuanphuc",
-                        "fullName": "Nguyễn Xuân Phúc",
-                        "prefix": "",
-                        "primary": 1
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "term": "2011–2016",
-        "members": []
-    },
-    {
-        "term": "2016–2021",
-        "members": []
-    },
-    {
-        "term": "2016–2021",
-        "members": []
-    }
-]
+{
+    "term": [
+        {
+            "id": "2021_2026",
+            "name": "Chính phủ Việt Nam 2021–2026"
+        },
+        {
+            "id": "2016_2021",
+            "name": "Chính phủ Việt Nam 2016 – 2021"
+        },
+        {
+            "id": "2011_2016",
+            "name": "Chính phủ Việt Nam 2011 - 2016"
+        },
+        {
+            "id": "2007_2011",
+            "name": "Chính phủ Việt Nam 2007 – 2011"
+        },
+        {
+            "id": "2002_2007",
+            "name": "Chính phủ Việt Nam 2002 – 2007"
+        },
+        {
+            "id": "1997_2002",
+            "name": "Chính phủ Việt Nam 1997 – 2002"
+        },
+        {
+            "id": "1992_1997",
+            "name": "Chính phủ Việt Nam 1992 – 1997"
+        }
+    ]
+}
