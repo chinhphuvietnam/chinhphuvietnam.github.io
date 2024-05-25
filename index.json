@@ -254,22 +254,56 @@
         {
             "name": "Nguyễn Xuân Phúc",
             "additional": "7-4-2016 - 5-4-2021",
-            "members": []
+            "members": [
+                {
+                    "title": "Thủ tướng",
+                    "person": [
+                        {
+                            "id": "nguyenxuanphuc",
+                            "fullName": "Nguyễn Xuân Phúc"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "name": "Nguyễn Tấn Dũng",
             "additional": "27-6-2006 - 6-4-2016",
-            "members": []
+            "members": [{
+                "title": "Thủ tướng",
+                "person": [
+                    {
+                        "id": "nguyentandung",
+                        "fullName": "Nguyễn Tấn Dũng"
+                    }
+                ]
+            }]
         },
         {
             "name": "Phan Văn Khải",
             "additional": "25-9-1997 - 27-6-2006",
-            "members": []
+            "members": [{
+                "title": "Thủ tướng",
+                "person": [
+                    {
+                        "id": "phanvankhai",
+                        "fullName": "Phan Văn Khải"
+                    }
+                ]
+            }]
         },
         {
             "name": "Võ Văn Kiệt",
             "additional": "9-8-1991 - 25-9-1997",
-            "members": []
+            "members": [{
+                "title": "Thủ tướng",
+                "person": [
+                    {
+                        "id": "vovankiet",
+                        "fullName": "Võ Văn Kiệt"
+                    }
+                ]
+            }]
         }
     ]
 }
