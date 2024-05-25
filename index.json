@@ -1,24 +1,86 @@
 {
-    "term": [
+    "terms": [
         {
-            "id": "phamminhchinh",
-            "name": "Phạm Minh Chính"
+            "name": "Phạm Minh Chính",
+            "additional": "5-4-2021 - nay",
+            "members": [
+                {
+                    "title": "Thủ tướng",
+                    "person": [
+                        {
+                            "id": "phamminhchinh",
+                            "fullName": "Phạm Minh Chính"
+                        }
+                    ]
+                },
+                {
+                    "title": "Phó Thủ tướng",
+                    "person": [
+                        {
+                            "id": "leminhkhai",
+                            "fullName": "Lê Minh Khái"
+                        }
+                    ]
+                },
+                {
+                    "title": "Phó Thủ tướng",
+                    "person": [
+                        {
+                            "id": "tranhongha",
+                            "fullName": "Trần Hồng Hà"
+                        }
+                    ]
+                },
+                {
+                    "title": "Phó Thủ tướng",
+                    "person": [
+                        {
+                            "id": "leminhkhai",
+                            "fullName": "Trần Lưu Quang"
+                        }
+                    ]
+                },
+                {
+                    "title": "Phó Thủ tướng",
+                    "person": [
+                        {
+                            "id": "vuducdam",
+                            "fullName": "Vũ Đức Đam",
+                            "additional": "đến 5-1-2023"
+                        }
+                    ]
+                },
+                {
+                    "title": "Phó Thủ tướng",
+                    "person": [
+                        {
+                            "id": "phambinhminh",
+                            "fullName": "Phạm Bình Minh",
+                            "additional": "đến 5-1-2023"
+                        }
+                    ]
+                }
+            ]
         },
         {
-            "id": "nguyenxuanphuc",
-            "name": "Nguyễn Xuân Phúc"
+            "name": "Nguyễn Xuân Phúc",
+            "additional": "7-4-2016 - 5-4-2021",
+            "members": []
         },
         {
-            "id": "nguyentandung",
-            "name": "Nguyễn Tấn Dũng"
+            "name": "Nguyễn Tấn Dũng",
+            "additional": "27-6-2006 - 6-4-2016",
+            "members": []
         },
         {
-            "id": "phanvankhai",
-            "name": "Phan Văn Khải"
+            "name": "Phan Văn Khải",
+            "additional": "25-9-1997 - 27-6-2006",
+            "members": []
         },
         {
-            "id": "vovankiet",
-            "name": "Võ Văn Kiệt"
+            "name": "Võ Văn Kiệt",
+            "additional": "9-8-1991 - 25-9-1997",
+            "members": []
         }
     ]
 }
