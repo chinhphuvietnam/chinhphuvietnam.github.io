@@ -65,7 +65,7 @@
                     "person": [
                         {
                             "id": "phanvangiang",
-                            "fullName": "Đại tướng Phan Văn Giang"
+                            "fullName": "Phan Văn Giang"
                         }
                     ]
                 },
@@ -74,7 +74,7 @@
                     "person": [
                         {
                             "id": "tolam",
-                            "fullName": "Đại tướng Tô Lâm"
+                            "fullName": "Tô Lâm"
                         }
                     ]
                 },
@@ -164,7 +164,7 @@
                     "person": [
                         {
                             "id": "nguyenmanhhung",
-                            "fullName": "Thiếu tướng Nguyễn Mạnh Hùng"
+                            "fullName": "Nguyễn Mạnh Hùng"
                         }
                     ]
                 },
