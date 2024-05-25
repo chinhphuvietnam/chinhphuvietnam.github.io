@@ -64,7 +64,7 @@
                     "title": "Bộ trưởng Bộ Quốc phòng",
                     "person": [
                         {
-                            "id": "",
+                            "id": "phanvangiang",
                             "fullName": "Phan Văn Giang"
                         }
                     ]
@@ -73,7 +73,7 @@
                     "title": "Bộ trưởng Bộ Ngoại giao",
                     "person": [
                         {
-                            "id": "",
+                            "id": "buithanhson",
                             "fullName": "Bùi Thanh Sơn"
                         }
                     ]
@@ -82,7 +82,7 @@
                     "title": "Bộ trưởng Bộ Nội vụ",
                     "person": [
                         {
-                            "id": "",
+                            "id": "phamthithanhtra",
                             "fullName": "Phạm Thị Thanh Trà"
                         }
                     ]
@@ -91,7 +91,7 @@
                     "title": "Bộ trưởng Bộ Tư pháp",
                     "person": [
                         {
-                            "id": "",
+                            "id": "lethanhlong",
                             "fullName": "Lê Thành Long"
                         }
                     ]
@@ -100,7 +100,7 @@
                     "title": "Bộ trưởng Bộ Kế hoạch và Đầu tư",
                     "person": [
                         {
-                            "id": "",
+                            "id": "nguyenchidung",
                             "fullName": "Nguyễn Chí Dũng"
                         }
                     ]
@@ -109,7 +109,7 @@
                     "title": "Bộ trưởng Bộ Tài chính",
                     "person": [
                         {
-                            "id": "",
+                            "id": "hoducphoc",
                             "fullName": "Hồ Đức Phớc"
                         }
                     ]
@@ -118,7 +118,7 @@
                     "title": "Bộ trưởng Bộ Công Thương",
                     "person": [
                         {
-                            "id": "",
+                            "id": "nguyenhongdien",
                             "fullName": "Nguyễn Hồng Diên"
                         }
                     ]
@@ -127,7 +127,7 @@
                     "title": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn",
                     "person": [
                         {
-                            "id": "",
+                            "id": "leminhhoan",
                             "fullName": "Lê Minh Hoan"
                         }
                     ]
@@ -136,7 +136,7 @@
                     "title": "Bộ trưởng Bộ Giao thông vận tải",
                     "person": [
                         {
-                            "id": "",
+                            "id": "nguyenvanthang",
                             "fullName": "Nguyễn Văn Thắng"
                         }
                     ]
@@ -145,7 +145,7 @@
                     "title": "Bộ trưởng Bộ Xây dựng",
                     "person": [
                         {
-                            "id": "",
+                            "id": "nguyenthanhnghi",
                             "fullName": "Nguyễn Thanh Nghị"
                         }
                     ]
@@ -154,7 +154,7 @@
                     "title": "Bộ trưởng Bộ Thông tin và Truyền thông",
                     "person": [
                         {
-                            "id": "",
+                            "id": "nguyenmanhhung",
                             "fullName": "Nguyễn Mạnh Hùng"
                         }
                     ]
@@ -163,7 +163,7 @@
                     "title": "Bộ trưởng Bộ Lao động - Thương binh và Xã hội",
                     "person": [
                         {
-                            "id": "",
+                            "id": "daongocdung",
                             "fullName": "Đào Ngọc Dung"
                         }
                     ]
@@ -172,7 +172,7 @@
                     "title": "Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch",
                     "person": [
                         {
-                            "id": "",
+                            "id": "nguyenvanhung",
                             "fullName": "Nguyễn Văn Hùng"
                         }
                     ]
@@ -181,7 +181,7 @@
                     "title": "Bộ trưởng Bộ Khoa học và Công nghệ",
                     "person": [
                         {
-                            "id": "",
+                            "id": "huynhthanhdat",
                             "fullName": "Huỳnh Thành Đạt"
                         }
                     ]
@@ -190,7 +190,7 @@
                     "title": "Bộ trưởng Bộ Giáo dục và Đào tạo",
                     "person": [
                         {
-                            "id": "",
+                            "id": "nguyenkimson",
                             "fullName": "Nguyễn Kim Sơn"
                         }
                     ]
@@ -199,7 +199,7 @@
                     "title": "Bộ trưởng Bộ Y tế",
                     "person": [
                         {
-                            "id": "",
+                            "id": "daohonglan",
                             "fullName": "Đào Hồng Lan"
                         }
                     ]
@@ -208,7 +208,7 @@
                     "title": "Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ",
                     "person": [
                         {
-                            "id": "",
+                            "id": "tranvanson",
                             "fullName": "Trần Văn Sơn"
                         }
                     ]
@@ -217,7 +217,7 @@
                     "title": "Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc",
                     "person": [
                         {
-                            "id": "",
+                            "id": "haualenh",
                             "fullName": "Hầu A Lềnh"
                         }
                     ]
@@ -226,7 +226,7 @@
                     "title": "Thống đốc Ngân hàng Nhà nước Việt Nam",
                     "person": [
                         {
-                            "id": "",
+                            "id": "nguyenthihong",
                             "fullName": "Nguyễn Thị Hồng"
                         }
                     ]
@@ -235,7 +235,7 @@
                     "title": "Tổng Thanh tra Chính phủ",
                     "person": [
                         {
-                            "id": "",
+                            "id": "doanhongphong",
                             "fullName": "Đoàn Hồng Phong"
                         }
                     ]
@@ -244,7 +244,7 @@
                     "title": "Bộ trưởng Bộ Tài nguyên và Môi trường",
                     "person": [
                         {
-                            "id": "",
+                            "id": "dangquockhanh",
                             "fullName": "Đặng Quốc Khánh"
                         }
                     ]
