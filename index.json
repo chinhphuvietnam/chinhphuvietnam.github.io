@@ -65,7 +65,16 @@
                     "person": [
                         {
                             "id": "phanvangiang",
-                            "fullName": "Phan Văn Giang"
+                            "fullName": "Đại tướng Phan Văn Giang"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Công an",
+                    "person": [
+                        {
+                            "id": "tolam",
+                            "fullName": "Đại tướng Tô Lâm"
                         }
                     ]
                 },
@@ -155,7 +164,7 @@
                     "person": [
                         {
                             "id": "nguyenmanhhung",
-                            "fullName": "Nguyễn Mạnh Hùng"
+                            "fullName": "Thiếu tướng Nguyễn Mạnh Hùng"
                         }
                     ]
                 },
