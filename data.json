@@ -1,79 +1,78 @@
 [
     {
         "title": "Thủ tướng",
-        "fullName": "Phạm Minh Chính",
-        "id": "phamminhchinh",
-        "from": 20210504,
-        "to": 0
-    },
-    {
-        "title": "Thủ tướng",
-        "fullName": "Nguyễn Xuân Phúc",
-        "id": "nguyenxuanphuc",
-        "from": 20160407,
-        "to": 20210405
-    },
-    {
-        "title": "Thủ tướng",
-        "fullName": "Nguyễn Tấn Dũng",
-        "id": "nguyentandung",
-        "from": 20060627,
-        "to": 20160406
-    },
-    {
-        "title": "Thủ tướng",
-        "fullName": "Phan Văn Khải",
-        "id": "phanvankhai",
-        "from": 19970925,
-        "to": 20060627
-    },
-    {
-        "title": "Thủ tướng",
-        "fullName": "Võ Văn Kiệt",
-        "id": "vovankiet",
-        "from": 19910809,
-        "to": 19970925
-    },
-    {
-        "title": "Phó Thủ tướng thường trực",
-        "fullName": "Phạm Bình Minh",
-        "id": "phambinhminh",
-        "from": 20210906,
-        "to": 20230105
+        "person": [
+            {
+                "fullName": "Phạm Minh Chính",
+                "id": "phamminhchinh",
+                "from": 20210504,
+                "to": 0
+            },
+            {
+                "fullName": "Nguyễn Xuân Phúc",
+                "id": "nguyenxuanphuc",
+                "from": 20160407,
+                "to": 20210405
+            },
+            {
+                "fullName": "Nguyễn Tấn Dũng",
+                "id": "nguyentandung",
+                "from": 20060627,
+                "to": 20160406
+            },
+            {
+                "fullName": "Phan Văn Khải",
+                "id": "phanvankhai",
+                "from": 19970925,
+                "to": 20060627
+            },
+            {
+                "fullName": "Võ Văn Kiệt",
+                "id": "vovankiet",
+                "from": 19910809,
+                "to": 19970925
+            }
+        ]
     },
     {
         "title": "Phó Thủ tướng thường trực",
-        "fullName": "Trương Hòa Bình",
-        "id": "truonghoabinh",
-        "from": 20160409,
-        "to": 20210728
-    },
-    {
-        "title": "Phó Thủ tướng thường trực",
-        "fullName": "Nguyễn Xuân Phúc",
-        "id": "nguyenxuanphuc",
-        "from": 20110803,
-        "to": 20160407
-    },
-    {
-        "title": "Phó Thủ tướng thường trực",
-        "fullName": "Nguyễn Sinh Hùng",
-        "id": "nguyensinhhung",
-        "from": 20060628,
-        "to": 20110725
-    },
-    {
-        "title": "Phó Thủ tướng thường trực",
-        "fullName": "Nguyễn Tấn Dũng",
-        "id": "nguyentandung",
-        "from": 19970929,
-        "to": 20060627
-    },
-    {
-        "title": "Phó Thủ tướng thường trực",
-        "fullName": "Phan Văn Khải",
-        "id": "phanvankhai",
-        "from": 19910809,
-        "to": 19970925
+        "person": [
+            {
+                "fullName": "Phạm Bình Minh",
+                "id": "phambinhminh",
+                "from": 20210906,
+                "to": 20230105
+            },
+            {
+                "fullName": "Trương Hòa Bình",
+                "id": "truonghoabinh",
+                "from": 20160409,
+                "to": 20210728
+            },
+            {
+                "fullName": "Nguyễn Xuân Phúc",
+                "id": "nguyenxuanphuc",
+                "from": 20110803,
+                "to": 20160407
+            },
+            {
+                "fullName": "Nguyễn Sinh Hùng",
+                "id": "nguyensinhhung",
+                "from": 20060628,
+                "to": 20110725
+            },
+            {
+                "fullName": "Nguyễn Tấn Dũng",
+                "id": "nguyentandung",
+                "from": 19970929,
+                "to": 20060627
+            },
+            {
+                "fullName": "Phan Văn Khải",
+                "id": "phanvankhai",
+                "from": 19910809,
+                "to": 19970925
+            }
+        ]
     }
 ]
