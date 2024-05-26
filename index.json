@@ -272,6 +272,240 @@
                             "fullName": "Nguyễn Xuân Phúc"
                         }
                     ]
+                },
+                {
+                    "title": "Phó Thủ tướng",
+                    "person": [
+                        {
+                            "id": "truonghoabinh",
+                            "fullName": "Trương Hòa Bình"
+                        }
+                    ]
+                },
+                {
+                    "title": "Phó Thủ tướng",
+                    "person": [
+                        {
+                            "id": "trinhdinhdung",
+                            "fullName": "Trịnh Đình Dũng"
+                        }
+                    ]
+                },
+                {
+                    "title": "Phó Thủ tướng",
+                    "person": [
+                        {
+                            "id": "vuducdam",
+                            "fullName": "Vũ Đức Đam"
+                        }
+                    ]
+                },
+                {
+                    "title": "Phó Thủ tướng",
+                    "person": [
+                        {
+                            "id": "vuongdinhhue",
+                            "fullName": "Vương Đình Huệ"
+                        }
+                    ]
+                },
+                {
+                    "title": "Phó Thủ tướng",
+                    "person": [
+                        {
+                            "id": "phambinhminh",
+                            "fullName": "Phạm Bình Minh"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Công Thương",
+                    "person": [
+                        {
+                            "id": "trantuananh",
+                            "fullName": "Trần Tuấn Anh"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Khoa học và Công nghệ",
+                    "person": [
+                        {
+                            "id": "chungocanh",
+                            "fullName": "Chu Ngọc Anh"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc",
+                    "person": [
+                        {
+                            "id": "dovanchien",
+                            "fullName": "Đỗ Văn Chiến"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Lao động - Thương binh và Xã hội",
+                    "person": [
+                        {
+                            "id": "daongocdung",
+                            "fullName": "Đào Ngọc Dung"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ",
+                    "person": [
+                        {
+                            "id": "maitiendung",
+                            "fullName": "Mai Tiến Dũng"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Kế hoạch và Đầu tư",
+                    "person": [
+                        {
+                            "id": "nguyenchidung",
+                            "fullName": "Nguyễn Chí Dũng"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Tài chính",
+                    "person": [
+                        {
+                            "id": "dinhtiendung",
+                            "fullName": "Đinh Tiến Dũng"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Xây dựng",
+                    "person": [
+                        {
+                            "id": "phamhongha",
+                            "fullName": "Phạm Hồng Hà"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Tài nguyên và Môi trường",
+                    "person": [
+                        {
+                            "id": "tranhongha",
+                            "fullName": "Trần Hồng Hà"
+                        }
+                    ]
+                },
+                {
+                    "title": "Thống đốc Ngân hàng Nhà nước Việt Nam",
+                    "person": [
+                        {
+                            "id": "leminhhung",
+                            "fullName": "Lê Minh Hưng"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Công an",
+                    "person": [
+                        {
+                            "id": "tolam",
+                            "fullName": "Tô Lâm"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Quốc phòng",
+                    "person": [
+                        {
+                            "id": "ngoxuanlich",
+                            "fullName": "Ngô Xuân Lịch"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Tư pháp",
+                    "person": [
+                        {
+                            "id": "lethanhlong",
+                            "fullName": "Lê Thành Long"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Giao thông vận tải",
+                    "person": [
+                        {
+                            "id": "truongquangnghia",
+                            "fullName": "Trương Quang Nghĩa"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Giáo dục và Đào tạo",
+                    "person": [
+                        {
+                            "id": "phungxuannha",
+                            "fullName": "Phùng Xuân Nhạ"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn",
+                    "person": [
+                        {
+                            "id": "caoducphat",
+                            "fullName": "Cao Đức Phát"
+                        }
+                    ]
+                },
+                {
+                    "title": "Tổng Thanh tra Chính phủ",
+                    "person": [
+                        {
+                            "id": "phanvansau",
+                            "fullName": "Phan Văn Sáu"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Nội vụ",
+                    "person": [
+                        {
+                            "id": "levinhtan",
+                            "fullName": "Lê Vĩnh Tân"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch",
+                    "person": [
+                        {
+                            "id": "nguyenngocthien",
+                            "fullName": "Nguyễn Ngọc Thiện"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Y tế",
+                    "person": [
+                        {
+                            "id": "nguyenthikimtien",
+                            "fullName": "Nguyễn Thị Kim Tiến"
+                        }
+                    ]
+                },
+                {
+                    "title": "Bộ trưởng Bộ Thông tin và Truyền thông",
+                    "person": [
+                        {
+                            "id": "truongminhtuan",
+                            "fullName": "Trương Minh Tuấn"
+                        }
+                    ]
                 }
             ]
         },
