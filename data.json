@@ -1,6 +1,6 @@
 [
     {
-        "title": "Thủ tướng",
+        "title": "Thủ tướng Chính phủ",
         "person": [
             {
                 "fullName": "Phạm Minh Chính",
@@ -35,7 +35,7 @@
         ]
     },
     {
-        "title": "Phó Thủ tướng thường trực",
+        "title": "Phó Thủ tướng thường trực Chính phủ",
         "person": [
             {
                 "fullName": "Phạm Bình Minh",
@@ -72,6 +72,83 @@
                 "id": "phanvankhai",
                 "from": 19910809,
                 "to": 19970925
+            }
+        ]
+    },
+    {
+        "title": "Phó Thủ tướng Chính phủ",
+        "person": [
+            {
+                "fullName": "Trần Lưu Quang",
+                "id": "tranluuquang",
+                "from": 20230105,
+                "to": 0
+            },
+            {
+                "fullName": "Trần Hồng Hà",
+                "id": "tranhongha",
+                "from": 20230105,
+                "to": 0
+            },
+            {
+                "fullName": "Lê Văn Thành",
+                "id": "levanthanh",
+                "from": 20210408,
+                "to": 20230822
+            },
+            {
+                "fullName": "Lê Minh Khái",
+                "id": "leminhkhai",
+                "from": 20210408,
+                "to": 0
+            },
+            {
+                "fullName": "Trịnh Đình Dũng",
+                "id": "trinhdinhdung",
+                "from": 20160409,
+                "to": 20200611
+            },
+            {
+                "fullName": "Trương Hòa Bình",
+                "id": "truonghoabinh",
+                "from": 20160409,
+                "to": 20210728
+            },
+            {
+                "fullName": "Vương Đình Huệ",
+                "id": "vuongdinhhue",
+                "from": 20160409,
+                "to": 20200611
+            },
+            {
+                "fullName": "Vũ Đức Đam",
+                "id": "vuducdam",
+                "from": 20131113,
+                "to": 20230105
+            },
+            {
+                "fullName": "Nguyễn Xuân Phúc",
+                "id": "nguyenxuanphuc",
+                "from": 20110803,
+                "to": 20160407
+            },
+            {
+                "fullName": "Vũ Văn Ninh",
+                "id": "vuvanninh",
+                "from": 20110803,
+                "to": 20160408
+            },
+            {
+                "fullName": "Nguyễn Thiện Nhân",
+                "id": "nguyenthiennhan",
+                "from": 20070802,
+                "to": 20131111
+            },
+            {
+                "fullName": "Hoàng Trung Hải",
+                "id": "hoangtrunghai",
+                "from": 20070802,
+                "to": 20160408
             }
         ]
     }
