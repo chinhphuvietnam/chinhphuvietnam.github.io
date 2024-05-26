@@ -33,5 +33,47 @@
         "id": "vovankiet",
         "from": 19910809,
         "to": 19970925
+    },
+    {
+        "title": "Phó Thủ tướng thường trực",
+        "fullName": "Phạm Bình Minh",
+        "id": "phambinhminh",
+        "from": 20210906,
+        "to": 20230105
+    },
+    {
+        "title": "Phó Thủ tướng thường trực",
+        "fullName": "Trương Hòa Bình",
+        "id": "truonghoabinh",
+        "from": 20160409,
+        "to": 20210728
+    },
+    {
+        "title": "Phó Thủ tướng thường trực",
+        "fullName": "Nguyễn Xuân Phúc",
+        "id": "nguyenxuanphuc",
+        "from": 20110803,
+        "to": 20160407
+    },
+    {
+        "title": "Phó Thủ tướng thường trực",
+        "fullName": "Nguyễn Sinh Hùng",
+        "id": "nguyensinhhung",
+        "from": 20060628,
+        "to": 20110725
+    },
+    {
+        "title": "Phó Thủ tướng thường trực",
+        "fullName": "Nguyễn Tấn Dũng",
+        "id": "nguyentandung",
+        "from": 19970929,
+        "to": 20060627
+    },
+    {
+        "title": "Phó Thủ tướng thường trực",
+        "fullName": "Phan Văn Khải",
+        "id": "phanvankhai",
+        "from": 19910809,
+        "to": 19970925
     }
 ]
