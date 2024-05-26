@@ -1,9 +1,37 @@
 [
     {
+        "title": "Thủ tướng",
         "fullName": "Phạm Minh Chính",
         "id": "phamminhchinh",
-        "title": "Thủ tướng",
         "from": 20210504,
         "to": 0
+    },
+    {
+        "title": "Thủ tướng",
+        "fullName": "Nguyễn Xuân Phúc",
+        "id": "nguyenxuanphuc",
+        "from": 20160407,
+        "to": 20210405
+    },
+    {
+        "title": "Thủ tướng",
+        "fullName": "Nguyễn Tấn Dũng",
+        "id": "nguyentandung",
+        "from": 20060627,
+        "to": 20160406
+    },
+    {
+        "title": "Thủ tướng",
+        "fullName": "Phan Văn Khải",
+        "id": "phanvankhai",
+        "from": 19970925,
+        "to": 20060627
+    },
+    {
+        "title": "Thủ tướng",
+        "fullName": "Võ Văn Kiệt",
+        "id": "vovankiet",
+        "from": 19910809,
+        "to": 19970925
     }
 ]
