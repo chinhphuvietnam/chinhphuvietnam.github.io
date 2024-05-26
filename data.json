@@ -151,5 +151,51 @@
                 "to": 20160408
             }
         ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Kế hoạch và Đầu tư",
+        "person": [
+            {
+                "fullName": "Nguyễn Chí Dũng",
+                "id": "nguyenchidung",
+                "from": 20160409,
+                "to": 0
+            },
+            {
+                "fullName": "Bùi Quang Vinh",
+                "id": "buiquangvinh",
+                "from": 20110803,
+                "to": 20160408
+            },
+            {
+                "fullName": "Võ Hồng Phúc",
+                "id": "vohongphuc",
+                "from": 20020901,
+                "to": 20110803
+            }
+        ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Y tế",
+        "person": [
+            {
+                "fullName": "Đào Hồng Lan",
+                "id": "daohonglan",
+                "from": 20220715,
+                "to": 0
+            },
+            {
+                "fullName": "Đỗ Xuân Tuyên",
+                "id": "doxuantuyen",
+                "from": 20220607,
+                "to": 20220715
+            },
+            {
+                "fullName": "Nguyễn Thanh Long",
+                "id": "nguyenthanhlong",
+                "from": 20200707,
+                "to": 20220607
+            }
+        ]
     }
 ]
