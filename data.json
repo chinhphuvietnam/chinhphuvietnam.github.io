@@ -197,5 +197,51 @@
                 "to": 20220607
             }
         ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Tư pháp",
+        "person": [
+            {
+                "fullName": "Lê Thành Long",
+                "id": "lethanhlong",
+                "from": 20160408,
+                "to": 0
+            },
+            {
+                "fullName": "Hà Hùng Cường",
+                "id": "hahungcuong",
+                "from": 20070723,
+                "to": 20160408
+            },
+            {
+                "fullName": "Uông Chu Lưu",
+                "id": "uongchuluu",
+                "from": 20020812,
+                "to": 20070723
+            }
+        ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch",
+        "person": [
+            {
+                "fullName": "Nguyễn Văn Hùng",
+                "id": "nguyenvanhung",
+                "from": 20210408,
+                "to": 0
+            },
+            {
+                "fullName": "Nguyễn Ngọc Thiện",
+                "id": "nguyenngocthien",
+                "from": 20160409,
+                "to": 20210407
+            },
+            {
+                "fullName": "Hoàng Tuấn Anh",
+                "id": "hoangtuananh",
+                "from": 20070802,
+                "to": 20160408
+            }
+        ]
     }
 ]
