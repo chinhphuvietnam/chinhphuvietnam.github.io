@@ -243,5 +243,684 @@
                 "to": 20160408
             }
         ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Lao động – Thương binh và Xã hội",
+        "person": [
+            {
+                "fullName": "Đào Ngọc Dung",
+                "id": "daongocdung",
+                "from": 20160409,
+                "to": 0
+            },
+            {
+                "fullName": "Phạm Thị Hải Chuyền",
+                "id": "phamthihaichuyen",
+                "from": 20110803,
+                "to": 20160408
+            },
+            {
+                "fullName": "Nguyễn Thị Kim Ngân",
+                "id": "nguyenthikimngan",
+                "from": 20070802,
+                "to": 20110723
+            },
+            {
+                "fullName": "Nguyễn Thị Hằng",
+                "id": "nguyenthihang",
+                "from": 19980121,
+                "to": 20070802
+            },
+            {
+                "fullName": "Trần Đình Hoan",
+                "id": "trandinhhoang",
+                "from": 19890426,
+                "to": 19980121
+            },
+            {
+                "fullName": "Nguyễn Kỳ Cẩm",
+                "id": "nguyenkycam",
+                "from": 19870216,
+                "to": 19890426
+            }
+        ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Giao thông Vận tải",
+        "person": [
+            {
+                "fullName": "Bùi Danh Lưu",
+                "id": "buidanhluu",
+                "from": 19860621,
+                "to": 19961106
+            },
+            {
+                "fullName": "Lê Ngọc Hoàn",
+                "id": "lengochoan",
+                "from": 19961106,
+                "to": 20020719
+            },
+            {
+                "fullName": "Đào Đình Bình",
+                "id": "daodinhbinh",
+                "from": 20020719,
+                "to": 20060628
+            },
+            {
+                "fullName": "Hồ Nghĩa Dũng",
+                "id": "honghiadung",
+                "from": 20060628,
+                "to": 20110803
+            },
+            {
+                "fullName": "Đinh La Thăng",
+                "id": "dinhlathang",
+                "from": 20110803,
+                "to": 20160408
+            },
+            {
+                "fullName": "Trương Quang Nghĩa",
+                "id": "truongquangnghia",
+                "from": 20160409,
+                "to": 20171026
+            },
+            {
+                "fullName": "Nguyễn Văn Thể",
+                "id": "nguyenvanthe",
+                "from": 20171026,
+                "to": 20221021
+            },
+            {
+                "fullName": "Nguyễn Văn Thắng",
+                "id": "nguyenvanthang",
+                "from": 20221021,
+                "to": 0
+            }
+        ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Xây dựng",
+        "person": [
+            {
+                "fullName": "Phan Ngọc Tường",
+                "id": "phanngoctuong",
+                "from": 19820423,
+                "to": 19891018
+            },
+            {
+                "fullName": "Ngô Xuân Lộc",
+                "id": "ngoxuanloc",
+                "from": 19891018,
+                "to": 19970929
+            },
+            {
+                "fullName": "Nguyễn Mạnh Kiểm",
+                "id": "nguyenmanhkiem",
+                "from": 19970926,
+                "to": 20020808
+            },
+            {
+                "fullName": "Nguyễn Hồng Quân",
+                "id": "nguyenhongquan",
+                "from": 20020801,
+                "to": 20110803
+            },
+            {
+                "fullName": "Trịnh Đình Dũng",
+                "id": "trinhmanhdung",
+                "from": 20110803,
+                "to": 20160408
+            },
+            {
+                "fullName": "Phạm Hồng Hà",
+                "id": "phamhongha",
+                "from": 20160409,
+                "to": 20210407
+            },
+            {
+                "fullName": "Nguyễn Thanh Nghị",
+                "id": "nguyenthanhnghi",
+                "from": 20210408,
+                "to": 0
+            }
+        ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Giáo dục và Đào tạo",
+        "person": [
+            {
+                "fullName": "Trần Hồng Quân",
+                "id": "tranhongquan",
+                "from": 19900301,
+                "to": 19970929
+            },
+            {
+                "fullName": "Nguyễn Minh Hiển",
+                "id": "nguyenminhhien",
+                "from": 19970929,
+                "to": 20060628
+            },
+            {
+                "fullName": "Nguyễn Thiện Nhân",
+                "id": "nguyenthiennhan",
+                "from": 20060628,
+                "to": 20100617
+            },
+            {
+                "fullName": "Phạm Vũ Luận",
+                "id": "phamvuluan",
+                "from": 20100617,
+                "to": 20160408
+            },
+            {
+                "fullName": "Phùng Xuân Nhạ",
+                "id": "phungxuannha",
+                "from": 20160409,
+                "to": 20210407
+            },
+            {
+                "fullName": "Nguyễn Kim Sơn",
+                "id": "nguyenkimson",
+                "from": 20210408,
+                "to": 0
+            }
+        ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn",
+        "person": [
+            {
+                "fullName": "Nguyễn Công Tạn",
+                "id": "nguyencongtan",
+                "from": 19951021,
+                "to": 19970926
+            },
+            {
+                "fullName": "Lê Huy Ngọ",
+                "id": "lehuyngo",
+                "from": 19970926,
+                "to": 20040601
+            },
+            {
+                "fullName": "Cao Đức Phát",
+                "id": "caoducphat",
+                "from": 20040601,
+                "to": 20160727
+            },
+            {
+                "fullName": "Nguyễn Xuân Cường",
+                "id": "nguyenxuancuong",
+                "from": 20160728,
+                "to": 20210407
+            },
+            {
+                "fullName": "Lê Minh Hoan",
+                "id": "leminhhoan",
+                "from": 20210408,
+                "to": 0
+            }
+        ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Thông tin và Truyền thông",
+        "person": [
+            {
+                "fullName": "Lê Doãn Hợp",
+                "id": "ledoanhop",
+                "from": 20070802,
+                "to": 20110803
+            },
+            {
+                "fullName": "Nguyễn Bắc Son",
+                "id": "nguyenbacson",
+                "from": 20110803,
+                "to": 20160408
+            },
+            {
+                "fullName": "Trương Minh Tuấn",
+                "id": "truongminhtuan",
+                "from": 20160409,
+                "to": 20181023
+            },
+            {
+                "fullName": "Nguyễn Mạnh Hùng",
+                "id": "nguyenmanhhung",
+                "from": 20181023,
+                "to": 0
+            }
+        ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Ngoại giao",
+        "person": [
+            {
+                "fullName": "Nguyễn Cơ Thạch",
+                "id": "nguyencothach",
+                "from": 19800207,
+                "to": 19910701
+            },
+            {
+                "fullName": "Nguyễn Mạnh Cầm",
+                "id": "nguyenmanhcam",
+                "from": 19910809,
+                "to": 20000128
+            },
+            {
+                "fullName": "Nguyễn Dy Niên",
+                "id": "nguyendynien",
+                "from": 20000128,
+                "to": 20060628
+            },
+            {
+                "fullName": "Phạm Gia Khiêm",
+                "id": "phamgiakhiem",
+                "from": 20060628,
+                "to": 20110803
+            },
+            {
+                "fullName": "Phạm Bình Minh",
+                "id": "phambinhminh",
+                "from": 20110803,
+                "to": 20210407
+            },
+            {
+                "fullName": "Bùi Thanh Sơn",
+                "id": "buithanhson",
+                "from": 20210408,
+                "to": 0
+            }
+        ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Tài nguyên và Môi trường",
+        "person": [
+            {
+                "fullName": "Mai Ái Trực",
+                "id": "maiaitruc",
+                "from": 20020808,
+                "to": 20070802
+            },
+            {
+                "fullName": "Phạm Khôi Nguyên",
+                "id": "phamkhoinguyen",
+                "from": 20070802,
+                "to": 20110803
+            },
+            {
+                "fullName": "Nguyễn Minh Quang",
+                "id": "nguyenminhquang",
+                "from": 20110803,
+                "to": 20160408
+            },
+            {
+                "fullName": "Trần Hồng Hà",
+                "id": "tranhongha",
+                "from": 20160409,
+                "to": 20230522
+            },
+            {
+                "fullName": "Đặng Quốc Khánh",
+                "id": "dangquockhanh",
+                "from": 20230522,
+                "to": 0
+            }
+        ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Công an",
+        "person": [
+            {
+                "fullName": "Lê Minh Hương",
+                "id": "leminhhuong",
+                "from": 19980507,
+                "to": 20020128
+            },
+            {
+                "fullName": "Lê Hồng Anh",
+                "id": "lehonganh",
+                "from": 20020128,
+                "to": 20110803
+            },
+            {
+                "fullName": "Trần Đại Quang",
+                "id": "trandaiquang",
+                "from": 20110803,
+                "to": 20110803
+            },
+            {
+                "fullName": "Tô Lâm",
+                "id": "tolam",
+                "from": 20160409,
+                "to": 20240522
+            },
+            {
+                "fullName": "Trần Quốc Tỏ",
+                "id": "tranquocto",
+                "from": 20240522,
+                "to": 0
+            }
+        ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Khoa học và Công nghệ",
+        "person": [
+            {
+                "fullName": "Hoàng Văn Phong",
+                "id": "hoangvanphong",
+                "from": 20020808,
+                "to": 20110801
+            },
+            {
+                "fullName": "Nguyễn Quân",
+                "id": "nguyenquan",
+                "from": 20110803,
+                "to": 20160408
+            },
+            {
+                "fullName": "Chu Ngọc Anh",
+                "id": "chungocanh",
+                "from": 20160409,
+                "to": 20201112
+            },
+            {
+                "fullName": "Huỳnh Thành Đạt",
+                "id": "huynhthanhdat",
+                "from": 20201112,
+                "to": 0
+            }
+        ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Tài chính",
+        "person": [
+            {
+                "fullName": "Hồ Tế",
+                "id": "hote",
+                "from": 19920201,
+                "to": 19961106
+            },
+            {
+                "fullName": "Nguyễn Sinh Hùng",
+                "id": "nguyesinhhung",
+                "from": 19961106,
+                "to": 20060628
+            },
+            {
+                "fullName": "Vũ Văn Ninh",
+                "id": "vuvanninh",
+                "from": 20060628,
+                "to": 20110603
+            },
+            {
+                "fullName": "Vương Đình Huệ",
+                "id": "vuongdinhhue",
+                "from": 20110803,
+                "to": 20130523
+            },
+            {
+                "fullName": "Đinh Tiến Dũng",
+                "id": "dinhtiendung",
+                "from": 20130524,
+                "to": 20210407
+            },
+            {
+                "fullName": "Hồ Đức Phớc",
+                "id": "hoducphoc",
+                "from": 20210408,
+                "to": 0
+            }
+        ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Nội vụ",
+        "person": [
+            {
+                "fullName": "Đỗ Quang Trung",
+                "id": "doquangtrung",
+                "from": 19960112,
+                "to": 20070628
+            },
+            {
+                "fullName": "Trần Văn Tuấn",
+                "id": "tranvantuan",
+                "from": 20070628,
+                "to": 20110803
+            },
+            {
+                "fullName": "Nguyễn Thái Bình",
+                "id": "nguyenthaibinh",
+                "from": 20110803,
+                "to": 20160408
+            },
+            {
+                "fullName": "Lê Vĩnh Tân",
+                "id": "levinhtan",
+                "from": 20160409,
+                "to": 20210407
+            },
+            {
+                "fullName": "Phạm Thị Thanh Trà",
+                "id": "phamthithanhtra",
+                "from": 20210408,
+                "to": 0
+            }
+        ]
+    },
+    {
+        "title": "Bộ trưởng Bộ Quốc phòng",
+        "person": [
+            {
+                "fullName": "Lê Đức Anh",
+                "id": "leducanh",
+                "from": 19870216,
+                "to": 19911229
+            },
+            {
+                "fullName": "Đoàn Khuê",
+                "id": "doankhue",
+                "from": 19910810,
+                "to": 19971229
+            },
+            {
+                "fullName": "Phạm Văn Trà",
+                "id": "phamvantra",
+                "from": 19971229,
+                "to": 20060627
+            },
+            {
+                "fullName": "Phùng Quang Thanh",
+                "id": "phungquangthanh",
+                "from": 20060627,
+                "to": 20160408
+            },
+            {
+                "fullName": "Ngô Xuân Lịch",
+                "id": "ngoxuanlich",
+                "from": 20160409,
+                "to": 20210407
+            },
+            {
+                "fullName": "Phan Văn Giang",
+                "id": "phangvangiang",
+                "from": 20210408,
+                "to": 0
+            }
+        ]
+    },
+    {
+        "title": "Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ",
+        "person": [
+            {
+                "fullName": "Lê Xuân Trinh",
+                "id": "lexuantrinh",
+                "from": 19920919,
+                "to": 19961106
+            },
+            {
+                "fullName": "Lại Văn Cử",
+                "id": "laivancu",
+                "from": 19961106,
+                "to": 19990315
+            },
+            {
+                "fullName": "Đoàn Mạnh Giao",
+                "id": "doanmanhgiao",
+                "from": 19990315,
+                "to": 20070802
+            },
+            {
+                "fullName": "Nguyễn Xuân Phúc",
+                "id": "nguyenxuanphuc",
+                "from": 20070802,
+                "to": 20110803
+            },
+            {
+                "fullName": "Vũ Đức Đam",
+                "id": "vuducdam",
+                "from": 20110803,
+                "to": 20131114
+            },
+            {
+                "fullName": "Nguyễn Văn Nên",
+                "id": "nguyenvannen",
+                "from": 20131114,
+                "to": 20160408
+            },
+            {
+                "fullName": "Mai Tiến Dũng",
+                "id": "maitiendung",
+                "from": 20160409,
+                "to": 20210407
+            },
+            {
+                "fullName": "Trần Văn Sơn",
+                "id": "tranvanson",
+                "from": 20210408,
+                "to": 0
+            }
+        ]
+    },
+    {
+        "title": "Tổng Thanh tra Chính phủ",
+        "person": [
+            {
+                "fullName": "Quách Lê Thanh",
+                "id": "quachlethanh",
+                "from": 20050425,
+                "to": 20060627
+            },
+            {
+                "fullName": "Trần Văn Truyền",
+                "id": "tranvantruyen",
+                "from": 20060627,
+                "to": 20110803
+            },
+            {
+                "fullName": "Huỳnh Phong Tranh",
+                "id": "huynhphongtranh",
+                "from": 20110803,
+                "to": 20160408
+            },
+            {
+                "fullName": "Phan Văn Sáu",
+                "id": "phanvansau",
+                "from": 20160409,
+                "to": 20171025
+            },
+            {
+                "fullName": "Lê Minh Khái",
+                "id": "leminhkhai",
+                "from": 20171026,
+                "to": 20210407
+            },
+            {
+                "fullName": "Đoàn Hồng Phong",
+                "id": "doanhongphong",
+                "from": 20210408,
+                "to": 0
+            }
+        ]
+    },
+    {
+        "title": "Thống đốc Ngân hàng Nhà nước Việt Nam",
+        "person": [
+            {
+                "fullName": "Cao Sĩ Kiêm",
+                "id": "caosikiem",
+                "from": 19890426,
+                "to": 19971023
+            },
+            {
+                "fullName": "Đỗ Quế Lượng",
+                "id": "doqueluong",
+                "from": 19971023,
+                "to": 19980506
+            },
+            {
+                "fullName": "Nguyễn Tấn Dũng",
+                "id": "nguyentandung",
+                "from": 19980507,
+                "to": 19991211
+            },
+            {
+                "fullName": "Lê Đức Thúy",
+                "id": "leducthuy",
+                "from": 19991211,
+                "to": 20070823
+            },
+            {
+                "fullName": "Nguyễn Văn Giàu",
+                "id": "nguyenvangiau",
+                "from": 20070823,
+                "to": 20110803
+            },
+            {
+                "fullName": "Nguyễn Văn Bình",
+                "id": "nguyenvanbinh",
+                "from": 20110803,
+                "to": 20160408
+            },
+            {
+                "fullName": "Lê Minh Hưng",
+                "id": "leminhhung",
+                "from": 20160409,
+                "to": 20201112
+            },
+            {
+                "fullName": "Nguyễn Thị Hồng",
+                "id": "nguyenthihong",
+                "from": 20201112,
+                "to": 0
+            }
+        ]
+    },
+    {
+        "title": "Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc",
+        "person": [
+            {
+                "fullName": "Ksor Phước",
+                "id": "ksorphuoc",
+                "from": 20020808,
+                "to": 20070802
+            },
+            {
+                "fullName": "Giàng Seo Phử",
+                "id": "giangseophu",
+                "from": 20070802,
+                "to": 20160408
+            },
+            {
+                "fullName": "Đỗ Văn Chiến",
+                "id": "dovanchien",
+                "from": 20160409,
+                "to": 20210407
+            },
+            {
+                "fullName": "Hầu A Lềnh",
+                "id": "haualenh",
+                "from": 20210408,
+                "to": 0
+            }
+        ]
     }
 ]
