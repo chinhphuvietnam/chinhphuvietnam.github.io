@@ -149,6 +149,42 @@
                 "id": "hoangtrunghai",
                 "from": 20070802,
                 "to": 20160408
+            },
+            {
+                "fullName": "Nguyễn Mạnh Cầm",
+                "id": "nguyenmanhcam",
+                "from": 19970929,
+                "to": 20020812
+            },
+            {
+                "fullName": "Nguyễn Công Tạn",
+                "id": "nguyencongtan",
+                "from": 19970929,
+                "to": 20020812
+            },
+            {
+                "fullName": "Ngô Xuân Lộc",
+                "id": "ngoxuanloc",
+                "from": 19970929,
+                "to": 19991211
+            },
+            {
+                "fullName": "Phạm Gia Khiêm",
+                "id": "phamgiakhiem",
+                "from": 19970929,
+                "to": 20110803
+            },
+            {
+                "fullName": "Vũ Khoan",
+                "id": "vukhoan",
+                "from": 20020812,
+                "to": 20060628
+            },
+            {
+                "fullName": "Trương Vĩnh Trọng",
+                "id": "truongvinhtrong",
+                "from": 20060628,
+                "to": 20110725
             }
         ]
     },
