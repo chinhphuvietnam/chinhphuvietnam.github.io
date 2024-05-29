@@ -2,5 +2,10 @@
   "fullName": "Lê Minh Khái",
   "yearOfBirth": 1964,
   "homeTown": "Bạc Liêu",
+  "education": [
+    "Kỹ sư kinh tế",
+    "Học hàm, học vị: Thạc sĩ Kinh tế",
+    "Ngoại ngữ: Tiếng Nga"
+  ],
   "wikipedia": "Lê_Minh_Khái"
 }
