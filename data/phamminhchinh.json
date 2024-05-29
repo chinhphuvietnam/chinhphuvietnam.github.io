@@ -12,8 +12,8 @@
       "detail": "Tốt nghiệp Đại học, chờ tiếp nhận công tác"
     }
   ],
-  "education": "Phó Giáo sư Ngành Khoa học An ninh; Tiến sĩ Luật học Kỹ sư xây dựng dân dụng và công nghiệp, chuyên ngành kết cấu thép",
-  "wikipedia": "Phạm_Minh_Chính",
-  "facebook": "",
-  "x": ""
+  "education": [
+    "Phó Giáo sư Ngành Khoa học An ninh; Tiến sĩ Luật học Kỹ sư xây dựng dân dụng và công nghiệp, chuyên ngành kết cấu thép"
+  ],
+  "wikipedia": "Phạm_Minh_Chính"
 }
