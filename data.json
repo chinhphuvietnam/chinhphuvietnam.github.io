@@ -216,10 +216,52 @@
         "title": "Bộ trưởng Bộ Y tế",
         "person": [
             {
-                "fullName": "Đào Hồng Lan",
-                "id": "daohonglan",
-                "from": 20220715,
-                "to": 0
+                "fullName": "Phạm Song",
+                "id": "phamsong",
+                "from": 19881111,
+                "to": 19921008
+            },
+            {
+                "fullName": "Nguyễn Trọng Nhân",
+                "id": "nguyentrongnhan",
+                "from": 19921008,
+                "to": 19951021
+            },
+            {
+                "fullName": "Đỗ Nguyên Phương",
+                "id": "donguyenphuong",
+                "from": 19951021,
+                "to": 20020812
+            },
+            {
+                "fullName": "Trần Thị Trung Chiến",
+                "id": "tranthitrungchien",
+                "from": 20020812,
+                "to": 20070802
+            },
+            {
+                "fullName": "Nguyễn Quốc Triệu",
+                "id": "nguyenquoctrieu",
+                "from": 20070802,
+                "to": 20110803
+            },
+            {
+                "fullName": "Nguyễn Thị Kim Tiến",
+                "id": "nguyenthikimtien",
+                "from": 110803,
+                "to": 20191122
+            },
+            {
+                "fullName": "Vũ Đức Đam",
+                "id": "vuducdam",
+                "from": 20191105,
+                "to": 20200707
+            },
+            {
+                "fullName": "Nguyễn Thanh Long",
+                "id": "nguyenthanhlong",
+                "from": 20200707,
+                "to": 20220607
             },
             {
                 "fullName": "Đỗ Xuân Tuyên",
@@ -228,10 +270,10 @@
                 "to": 20220715
             },
             {
-                "fullName": "Nguyễn Thanh Long",
-                "id": "nguyenthanhlong",
-                "from": 20200707,
-                "to": 20220607
+                "fullName": "Đào Hồng Lan",
+                "id": "daohonglan",
+                "from": 20220715,
+                "to": 0
             }
         ]
     },
@@ -262,10 +304,34 @@
         "title": "Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch",
         "person": [
             {
-                "fullName": "Nguyễn Văn Hùng",
-                "id": "nguyenvanhung",
-                "from": 20210408,
-                "to": 0
+                "fullName": "Trần Hoàn",
+                "id": "tranhoan",
+                "from": 19900331,
+                "to": 19961106
+            },
+            {
+                "fullName": "Nguyễn Khoa Điềm",
+                "id": "nguyenkhoadiem",
+                "from": 19961107,
+                "to": 20010627
+            },
+            {
+                "fullName": "Phạm Quang Nghị",
+                "id": "phamquangnghi",
+                "from": 20010628,
+                "to": 20060627
+            },
+            {
+                "fullName": "Lê Doãn Hợp",
+                "id": "ledoanhop",
+                "from": 20060628,
+                "to": 20070802
+            },
+            {
+                "fullName": "Hoàng Tuấn Anh",
+                "id": "hoangtuananh",
+                "from": 20070802,
+                "to": 20160408
             },
             {
                 "fullName": "Nguyễn Ngọc Thiện",
@@ -274,10 +340,10 @@
                 "to": 20210407
             },
             {
-                "fullName": "Hoàng Tuấn Anh",
-                "id": "hoangtuananh",
-                "from": 20070802,
-                "to": 20160408
+                "fullName": "Nguyễn Văn Hùng",
+                "id": "nguyenvanhung",
+                "from": 20210408,
+                "to": 0
             }
         ]
     },
