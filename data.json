@@ -193,16 +193,16 @@
         "title": "Bộ trưởng Bộ Kế hoạch và Đầu tư",
         "person": [
             {
-                "fullName": "Võ Hồng Phúc",
-                "id": "vohongphuc",
-                "from": 20020901,
-                "to": 20110803
-            },
-            {
                 "fullName": "Bùi Quang Vinh",
                 "id": "buiquangvinh",
                 "from": 20110803,
                 "to": 20160408
+            },
+            {
+                "fullName": "Võ Hồng Phúc",
+                "id": "vohongphuc",
+                "from": 20020901,
+                "to": 20110803
             },
             {
                 "fullName": "Nguyễn Chí Dũng",
@@ -281,10 +281,10 @@
         "title": "Bộ trưởng Bộ Tư pháp",
         "person": [
             {
-                "fullName": "Uông Chu Lưu",
-                "id": "uongchuluu",
-                "from": 20020812,
-                "to": 20070723
+                "fullName": "Lê Thành Long",
+                "id": "lethanhlong",
+                "from": 20160408,
+                "to": 0
             },
             {
                 "fullName": "Hà Hùng Cường",
@@ -293,10 +293,10 @@
                 "to": 20160408
             },
             {
-                "fullName": "Lê Thành Long",
-                "id": "lethanhlong",
-                "from": 20160408,
-                "to": 0
+                "fullName": "Uông Chu Lưu",
+                "id": "uongchuluu",
+                "from": 20020812,
+                "to": 20070723
             }
         ]
     },
@@ -351,16 +351,10 @@
         "title": "Bộ trưởng Bộ Lao động – Thương binh và Xã hội",
         "person": [
             {
-                "fullName": "Nguyễn Thị Hằng",
-                "id": "nguyenthihang",
-                "from": 19980121,
-                "to": 20070802
-            },
-            {
-                "fullName": "Nguyễn Thị Kim Ngân",
-                "id": "nguyenthikimngan",
-                "from": 20070802,
-                "to": 20110723
+                "fullName": "Đào Ngọc Dung",
+                "id": "daongocdung",
+                "from": 20160409,
+                "to": 0
             },
             {
                 "fullName": "Phạm Thị Hải Chuyền",
@@ -369,10 +363,28 @@
                 "to": 20160408
             },
             {
-                "fullName": "Đào Ngọc Dung",
-                "id": "daongocdung",
-                "from": 20160409,
-                "to": 0
+                "fullName": "Nguyễn Thị Kim Ngân",
+                "id": "nguyenthikimngan",
+                "from": 20070802,
+                "to": 20110723
+            },
+            {
+                "fullName": "Nguyễn Thị Hằng",
+                "id": "nguyenthihang",
+                "from": 19980121,
+                "to": 20070802
+            },
+            {
+                "fullName": "Trần Đình Hoan",
+                "id": "trandinhhoang",
+                "from": 19890426,
+                "to": 19980121
+            },
+            {
+                "fullName": "Nguyễn Kỳ Cẩm",
+                "id": "nguyenkycam",
+                "from": 19870216,
+                "to": 19890426
             }
         ]
     },
