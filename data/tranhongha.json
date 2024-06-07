@@ -2,6 +2,72 @@
   "fullName": "Trần Hồng Hà",
   "yearOfBirth": 1963,
   "homeTown": "Hà Tĩnh",
+  "biography": [
+    {
+      "date": "1992 - 1996",
+      "detail": "Cộng tác viên khoa học tại Trung tâm hỗ trợ phát triển khoa học kỹ thuật điện tử thông tin ANTEI Moskva"
+    },
+    {
+      "date": "9/1996 - 11/1998",
+      "detail": "Cán bộ hợp đồng; Chuyên viên Cục Môi trường, Bộ Khoa học, Công nghệ và Môi trường (sau đổi tên là Bộ Tài nguyên và Môi trường)"
+    },
+    {
+      "date": "12/1998 - 4/2002",
+      "detail": "Phó trưởng phòng; Trưởng phòng Chính sách và Pháp chế, Cục Môi trường, Bộ Khoa học, Công nghệ và Môi trường (sau đổi tên là Bộ Tài nguyên và Môi trường)"
+    },
+    {
+      "date": "5/2002 - 12/2003",
+      "detail": "Phó Cục trưởng Cục Môi trường, Bộ Khoa học, Công nghệ và Môi trường (sau đổi tên là Bộ Tài nguyên và Môi trường)"
+    },
+    {
+      "date": "1/2004 - 9/2005",
+      "detail": "Quyền Cục trưởng, rồi Cục trưởng Cục Bảo vệ môi trường, Bộ Tài nguyên và Môi trường; Bí thư Chi bộ Cục Bảo vệ môi trường; Đảng ủy viên Đảng bộ lâm thời cơ quan Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "date": "10/2005 - 6/2008",
+      "detail": "Cục trưởng Cục Bảo vệ môi trường; Phó Tổng Cục trưởng phụ trách Tổng cục Môi trường, Bộ Tài nguyên và Môi trường; Đảng ủy viên Đảng bộ cơ quan Bộ Tài nguyên và Môi trường, Bí thư Đảng bộ Cục Bảo vệ môi trường, Bí thư Đảng ủy Đảng bộ lâm thời Tổng cục môi trường"
+    },
+    {
+      "date": "7/2008 - 12/2008",
+      "detail": "Ủy viên Ban Cán sự Đảng, Thứ trưởng Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "date": "1/2009 - 6/2010",
+      "detail": "Phó Bí thư Tỉnh ủy Bà Rịa-Vũng Tàu"
+    },
+    {
+      "date": "7/2010 - 1/2011",
+      "detail": "Ủy viên Ban Cán sự Đảng, Thứ trưởng Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "date": "1/2011 - 1/2016",
+      "detail": "Ủy viên dự khuyết Ban Chấp hành Trung ương Đảng; Ủy viên Ban Chấp hành Đảng bộ Khối các cơ quan Trung ương; Ủy viên Ban Cán sự Đảng, Bí thư Đảng ủy, Thủ trưởng cơ quan Bộ, Thứ trưởng Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "date": "1/2016 - 4/2016",
+      "detail": "Ủy viên Trung ương Đảng, Ủy viên Ban Chấp hành Đảng bộ Khối các cơ quan Trung ương; Ủy viên Ban Cán sự Đảng, Bí thư Đảng ủy, Thủ trưởng cơ quan Bộ, Thứ trưởng Bộ Tài nguyên và Môi trường"
+    },
+    {
+      "date": "9/4/2016",
+      "detail": "Tại kỳ họp thứ 11 Quốc hội khóa XIII, được Quốc hội phê chuẩn, Chủ tịch nước bổ nhiệm giữ chức Bộ trưởng Bộ Tài nguyên và Môi trường, Ủy viên Ban Chấp hành Đảng bộ Khối các cơ quan Trung ương, Bí thư Ban Cán sự Đảng"
+    },
+    {
+      "date": "28/7/2016",
+      "detail": "Tại kỳ họp thứ nhất Quốc hội khóa XIV, được Quốc hội phê chuẩn, Chủ tịch nước bổ nhiệm giữ chức Bộ trưởng Bộ Tài nguyên và Môi trường, Ủy viên Ban Chấp hành Đảng bộ Khối các cơ quan Trung ương, Bí thư Ban cán sự Đảng"
+    },
+    {
+      "date": "30/1/2021",
+      "detail": "Tại Đại hội đại biểu toàn quốc lần thứ XIII của Đảng, ông được bầu làm Ủy viên Trung ương Đảng khóa XIII, nhiệm kỳ 2021-2026"
+    },
+    {
+      "date": "5/1/2023",
+      "detail": "Quốc hội phê chuẩn bổ nhiệm giữ chức Phó Thủ tướng Chính phủ nhiệm kỳ 2021 - 2026"
+    },
+    {
+      "date": "22/5/2023",
+      "detail": "Quốc hội miễn nhiệm chức Bộ trưởng Bộ Tài nguyên và Môi trường với ông Trần Hồng Hà."
+    }
+  ],
   "education": [
     "Tiến sĩ"
   ],
