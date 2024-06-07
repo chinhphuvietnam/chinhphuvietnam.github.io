@@ -128,12 +128,6 @@
                 "to": 20230105
             },
             {
-                "fullName": "Nguyễn Xuân Phúc",
-                "id": "nguyenxuanphuc",
-                "from": 20110803,
-                "to": 20160407
-            },
-            {
                 "fullName": "Vũ Văn Ninh",
                 "id": "vuvanninh",
                 "from": 20110803,
@@ -186,6 +180,12 @@
                 "id": "truongvinhtrong",
                 "from": 20060628,
                 "to": 20110725
+            },
+            {
+                "fullName": "Lê Thành Long",
+                "id": "lethanhlong",
+                "from": 20240606,
+                "to": 0
             }
         ]
     },
@@ -691,9 +691,9 @@
                 "to": 20240522
             },
             {
-                "fullName": "Trần Quốc Tỏ",
-                "id": "tranquocto",
-                "from": 20240522,
+                "fullName": "Lương Tam Quang",
+                "id": "luongtamquang",
+                "from": 20240606,
                 "to": 0
             }
         ]
