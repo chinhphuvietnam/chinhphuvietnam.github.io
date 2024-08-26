@@ -83,7 +83,7 @@
                 "fullName": "Trần Lưu Quang",
                 "id": "tranluuquang",
                 "from": 20230105,
-                "to": 0
+                "to": 20240826
             },
             {
                 "fullName": "Trần Hồng Hà",
@@ -101,7 +101,7 @@
                 "fullName": "Lê Minh Khái",
                 "id": "leminhkhai",
                 "from": 20210408,
-                "to": 0
+                "to": 20240826
             },
             {
                 "fullName": "Trịnh Đình Dũng",
@@ -185,6 +185,18 @@
                 "fullName": "Lê Thành Long",
                 "id": "lethanhlong",
                 "from": 20240606,
+                "to": 0
+            },
+            {
+                "fullName": "Hồ Đức Phớc",
+                "id": "hoducphoc",
+                "from": 20240826,
+                "to": 0
+            },
+            {
+                "fullName": "Bùi Thanh Sơn",
+                "id": "buithanhson",
+                "from": 20240826,
                 "to": 0
             }
         ]
